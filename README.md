@@ -1,4 +1,4 @@
 # Demo
 THIS IS MY FIRST REPO.
 <br>
-Author - Aashi Saini
+Author - Aashi (MCA student) 
